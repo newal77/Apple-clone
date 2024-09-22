@@ -11,3 +11,40 @@ body {
   line-height: 1.5;
   color: #000;
 }
+/* something copied files  */
+
+/*Sixth Highlight Section */
+.sixth-heghlight-wrapper {
+  background: #fff;
+}
+.product-title-small {
+	font-weight: 700;
+	font-size: 45px;
+}
+.sixth-heghlight-wrapper .left-side-inner-wrapper {
+	height: 580px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;	
+	background-image:  url("../images/home/macbook-pro.jpg");
+	padding-top: 54px; 
+	background-size: initial;
+	background-color: #fafafa;
+	background-position: bottom;	
+}
+.sixth-heghlight-wrapper .right-side-inner-wrapper {
+	height: 580px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;	
+	padding-top: 54px;
+	background-image:  url("../images/home/new-ipad.jpg"); 
+	background-size: initial;
+	background-color: #000;
+	background-position: bottom;
+
+}
+
+/* ends of coped fiels  */
