@@ -14,6 +14,29 @@ body {
 /* something copied files  */
 
 /*Sixth Highlight Section */
+/* link wraper  */
+
+.links-wrapper {
+	padding: 15px 0;
+}
+.links-wrapper ul li {
+	display: inline-block;
+	padding-right: 20px;
+}
+.links-wrapper ul li a {
+	color: #06c;
+	text-decoration: none;
+}
+.links-wrapper ul li a:hover {
+	color: #000;
+}
+.links-wrapper ul li a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 10px;
+}
+/* ends of link wraper  */
 .sixth-heghlight-wrapper {
   background: #fff;
 }
@@ -27,7 +50,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	text-align: center;	
-	background-image:  url("../images/home/macbook-pro.jpg");
+	background-image:  url("../resource/images/home/macbook-pro.jpg");
 	padding-top: 54px; 
 	background-size: initial;
 	background-color: #fafafa;
@@ -40,7 +63,7 @@ body {
 	background-size: cover;
 	text-align: center;	
 	padding-top: 54px;
-	background-image:  url("../images/home/new-ipad.jpg"); 
+	background-image:  url("../resource/images/home/new-ipad.jpg"); 
 	background-size: initial;
 	background-color: #000;
 	background-position: bottom;
