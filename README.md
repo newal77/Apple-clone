@@ -1,4 +1,4 @@
-# Apple-clone
+# appleClone
 Apple Website Clone
 This project is a collaborative effort to clone the Apple website, aiming to replicate its design, functionality, and user experience.
 Collaborators:
@@ -24,7 +24,7 @@ Please follow these coding guidelines:
  * Add comments to explain complex code sections.
  * Write clean and maintainable code.
 License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code under the terms of this license.
+This project is licensed under the GNU License. You are free to use, modify, and distribute the code under the terms of this license.
 Contact
 For any questions or suggestions, feel free to reach out to any of the collaborators listed above or open an issue on this repository.
  * https://github.com/Andrew-Tsegaye/project_coloors_app
