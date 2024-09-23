@@ -12,6 +12,7 @@ body {
   color: #000;
 }
 
+
 /* Header Style */
 .header-wrapper {
   background: rgba(0, 0, 0, 0.8);
@@ -126,4 +127,5 @@ body {
 .footer-country-name {
   display: inline-block;
   vertical-align: top;
+
 }
