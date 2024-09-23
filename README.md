@@ -3,9 +3,9 @@ Apple Website Clone
 This project is a collaborative effort to clone the Apple website, aiming to replicate its design, functionality, and user experience.
 Collaborators:
 * Newal(newal77)
- *  Roman(Roman-ge)
+ *  Roman(rggeleta)
  *  Lamesgin(Lame-desu)
- *  Temesgen ()
+ *  Temesgen (tem0707)
  * beyene(LalibBeyu)
  * seid(Shifas0897)
  
@@ -27,4 +27,4 @@ License
 This project is licensed under the GNU License. You are free to use, modify, and distribute the code under the terms of this license.
 Contact
 For any questions or suggestions, feel free to reach out to any of the collaborators listed above or open an issue on this repository.
- * https://github.com/Andrew-Tsegaye/project_coloors_app
+
