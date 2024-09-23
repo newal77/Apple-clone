@@ -44,7 +44,7 @@ body {
   line-height: 44px;
 }
 .navbar-light .navbar-toggler-icon {
-  background-image: url("./resource/images/icons/humberger.png");
+  background-image: url("../resource/images/icons/humberger.png");
 }
 
 /* Footer Styling */
@@ -170,7 +170,7 @@ body {
 
 /* Second Highlight Section */
 .second-hightlight-wrapper {
-  background-image: url("./resource/images/home/iphone11-pro-bg.jpg");
+  background-image: url("../resource/images/home/iphone11-pro-bg.jpg");
   height: 580px;
   background-position: center;
   background-repeat: no-repeat;
@@ -193,7 +193,7 @@ body {
 }
 /* Third Highlight Section */
 .third-highlight-wrapper {
-  background-image: url("./resource/images/home/iphone11-bg.jpg");
+  background-image: url("../resource/images/home/iphone11-bg.jpg");
   height: 580px;
   background-position: center;
   background-repeat: no-repeat;
@@ -218,7 +218,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  background-image: url("./resource/images/home/watch-series-5.jpg");
+  background-image: url("../resource/images/home/watch-series-5.jpg");
   padding-top: 54px;
 }
 .right-side-inner-wrapper {
@@ -235,7 +235,7 @@ body {
   background-size: cover;
   text-align: center;
   padding-top: 54px;
-  background-image: url("./resource/images/home/apple-card.jpg");
+  background-image: url("../resource/images/home/apple-card.jpg");
 }
 .description-wraper {
   max-width: 430px;
@@ -253,7 +253,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  background-image: url("./resource/images/home/apple-tv-background.jpg");
+  background-image: url("../resource/images/home/apple-tv-background.jpg");
   padding-top: 54px;
 }
 .fifth-heghlight-wrapper .right-side-inner-wrapper {
@@ -263,7 +263,7 @@ body {
   background-size: cover;
   text-align: center;
   padding-top: 54px;
-  background-image: url("./resource/images/home/air-pods.jpg");
+  background-image: url("../resource/images/home/air-pods.jpg");
   color: #fff;
   background-size: initial;
   background-color: #000;
@@ -301,7 +301,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
-  background-image: url("./resource/images/home/macbook-pro.jpg");
+  background-image: url("../resource/images/home/macbook-pro.jpg");
   padding-top: 54px;
   background-size: initial;
   background-color: #fafafa;
@@ -314,7 +314,7 @@ body {
   background-size: cover;
   text-align: center;
   padding-top: 54px;
-  background-image: url("./resource/images/home/new-ipad.jpg");
+  background-image: url("../resource/images/home/new-ipad.jpg");
   background-size: initial;
   background-color: #000;
   background-position: bottom;
